@@ -2,8 +2,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atagaev95&layout=compact&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atagaev95&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=0)
-
 
 <!--
 **ATAGAEV95/ATAGAEV95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
